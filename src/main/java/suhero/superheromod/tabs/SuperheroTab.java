@@ -7,8 +7,8 @@ import suhero.superheromod.init.ItemInit;
 public class SuperheroTab extends CreativeTabs {
 
     public SuperheroTab(String label) {
-        super("superherotab");
-        this.setBackgroundImageName("superhero.png");
+        super("superhero_tab");
+//        this.setBackgroundImageName("superhero.png");
     }
 
     @Override

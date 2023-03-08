@@ -8,7 +8,7 @@ import net.minecraftforge.fml.common.eventhandler.SubscribeEvent;
 import suhero.superheromod.init.ItemInit;
 import suhero.superheromod.util.IHasModel;
 
-@Mod.EventBusSubscriber
+@ Mod.EventBusSubscriber
 public class RegistryHandler {
 
     @SubscribeEvent
@@ -20,7 +20,7 @@ public class RegistryHandler {
     public static void onModelRegister(ModelRegistryEvent event) {
         for(Item item : ItemInit.ITEMS) {
             if(item instanceof IHasModel){
-                ((IHasModel) item).registerModels();
+                ((IHasModel)item).registerModels();
             }
         }
     }

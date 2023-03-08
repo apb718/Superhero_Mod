@@ -1,10 +1,10 @@
 [
     {
         "modid": "superheromod",
-        "name": "SuperheroMod",
-        "description": "",
-        "version": "${version}",
-        "mcversion": "${mcversion}",
+        "name": "Superhero Mod",
+        "description": "This mod allows you to become like your favorite superheroes!",
+        "version": "1.0",
+        "mcversion": "1.12.2",
         "url": "",
         "updateUrl": "",
         "authorList": ["Alec", "Kati", "Jackson", "Michael", "Alana"],
