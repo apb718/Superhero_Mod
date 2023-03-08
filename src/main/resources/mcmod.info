@@ -1,0 +1,16 @@
+[
+    {
+        "modid": "superheromod",
+        "name": "SuperheroMod",
+        "description": "",
+        "version": "${version}",
+        "mcversion": "${mcversion}",
+        "url": "",
+        "updateUrl": "",
+        "authorList": ["Alec", "Kati", "Jackson", "Michael", "Alana"],
+        "credits": "",
+        "logoFile": "",
+        "screenshots": [],
+        "dependencies": []
+    }
+]
